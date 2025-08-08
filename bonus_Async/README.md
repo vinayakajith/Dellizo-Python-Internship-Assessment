@@ -9,7 +9,7 @@ It measures the response status and time taken for each URL and prints the resul
 
 The screenshot below shows the script running in the terminal, displaying the status codes and response times for each URL fetched asynchronously.
 
-![Async Task Output](Async_output.png)
+![Async Task Output](Async_screensho.png)
 
 ---
 
